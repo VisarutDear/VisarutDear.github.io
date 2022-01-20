@@ -1,4 +1,4 @@
-// import MicRecorder from 'mic-recorder-to-mp3';
+import MicRecorder from 'mic-recorder-to-mp3';
 import {useState, useEffect, useMemo} from 'react';
 function App() {
   // const recorder = useMemo(() => new MicRecorder({bitRate: 128}), []);
@@ -58,7 +58,7 @@ function App() {
   // };
   return (
     <>
-      <h1>dear23</h1>
+      <h1>dear234</h1>
       {/* <button onClick={start} disabled={micState.isRecording}>
         Record
       </button> */}
