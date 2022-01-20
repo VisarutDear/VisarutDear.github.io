@@ -2,11 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "16.13.2",
-    "npm": "8.1.2"
-  },
-  "homepage": "https://VisarutDear.github.io/react-gh-pages",
+  "homepage": "https://VisarutDear.github.io/voice-record-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
