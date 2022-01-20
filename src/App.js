@@ -1,4 +1,4 @@
-// import MicRecorder from 'mic-recorder-to-mp3';
+import MicRecorder from 'mic-recorder-to-mp3';
 // import {useState, useEffect, useMemo} from 'react';
 function App() {
   // const recorder = useMemo(() => new MicRecorder({bitRate: 128}), []);
