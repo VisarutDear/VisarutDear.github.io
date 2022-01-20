@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/voice-record-test/static/js/main.5e062434.js",
+    "index.html": "/voice-record-test/index.html",
+    "main.5e062434.js.map": "/voice-record-test/static/js/main.5e062434.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e062434.js"
+  ]
+}
