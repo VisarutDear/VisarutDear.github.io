@@ -1,12 +1,12 @@
-import MicRecorder from 'mic-recorder-to-mp3';
-import {useState, useEffect, useMemo} from 'react';
+// import MicRecorder from 'mic-recorder-to-mp3';
+// import {useState, useEffect, useMemo} from 'react';
 function App() {
-  const recorder = useMemo(() => new MicRecorder({bitRate: 128}), []);
-  const [micState, setMicState] = useState({
-    isRecording: false,
-    blobURL: '',
-    isBlocked: false,
-  });
+  // const recorder = useMemo(() => new MicRecorder({bitRate: 128}), []);
+  // const [micState, setMicState] = useState({
+  //   isRecording: false,
+  //   blobURL: '',
+  //   isBlocked: false,
+  // });
 
   // useEffect(() => {
   //   navigator.mediaDevices.getUserMedia(
